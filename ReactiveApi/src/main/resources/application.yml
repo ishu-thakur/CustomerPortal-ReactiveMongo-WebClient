@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: reactiveMongoDb
+#      host: mongodb
+      host: localhost
+      port: 3000
